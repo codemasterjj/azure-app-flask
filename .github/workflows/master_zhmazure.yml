@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'zhmazure'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB267F585F8B4F839A389685FF004FE1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_12702AF04459448CB5AFDF9B4F0002E7 }}
